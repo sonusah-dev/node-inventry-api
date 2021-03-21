@@ -1,0 +1,26 @@
+{
+  "name": "inventry-api",
+  "version": "1.0.0",
+  "description": "inventry that can store items from various hardware and construction raw material shops...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-inventry-api"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "MongoDB",
+    "Javascript",
+    "ES6"
+  ],
+  "author": "Sonu Sah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
+  }
+}
